@@ -1,11 +1,11 @@
-#verde {
+.verde {
     background-color: rgb(0, 255, 0);
 }
 
-#rosso{
+.rosso{
     background-color: rgb(255, 0, 0);
 }
 
-#giallo {
+.giallo {
     color: rgb(255, 255, 0);
 }
